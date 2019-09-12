@@ -1,0 +1,22 @@
+.uno{
+	background-color: black;
+	color: white;
+	display: flex;
+	padding: 2em;
+}
+
+.uno img{width: 400px;
+	height: auto;}
+
+
+.dos{
+	width: 800px;
+	height: 400px;
+	margin:2em;
+	}
+
+.un {
+	width: 400px;
+	height: auto;
+	margin: 4em;
+	}
